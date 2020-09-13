@@ -1,8 +1,8 @@
-module github.com/josephspurrier/goversioninfo
+module github.com/kvnxiao/goversioninfo
 
-go 1.12
+go 1.15
 
 require (
-	github.com/akavel/rsrc v0.8.0
 	github.com/stretchr/testify v1.6.1
+	github.com/tc-hib/rsrc v0.9.1
 )

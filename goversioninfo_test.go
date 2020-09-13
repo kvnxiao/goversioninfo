@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/akavel/rsrc/coff"
 	"github.com/stretchr/testify/assert"
+	"github.com/tc-hib/rsrc/coff"
 )
 
 // *****************************************************************************

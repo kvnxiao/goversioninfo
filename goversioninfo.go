@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/akavel/rsrc/binutil"
-	"github.com/akavel/rsrc/coff"
+	"github.com/tc-hib/rsrc/binutil"
+	"github.com/tc-hib/rsrc/coff"
 )
 
 // *****************************************************************************
@@ -278,7 +278,7 @@ package %v
 import (
 	"encoding/json"
 
-	"github.com/josephspurrier/goversioninfo"
+	"github.com/kvnxiao/goversioninfo"
 )
 
 func unmarshalGoVersionInfo(b []byte) goversioninfo.VersionInfo {
